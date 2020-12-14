@@ -73,7 +73,7 @@ Credenciales para el usuario "docente".
 usuario: carpio
 password: 123
 ```
-# Archivos del proyecto
+# Estructura del proyecto
 ![Alt text](https://raw.githubusercontent.com/FlorBorja/ProyectoFinal_WEB/main/ProyectoFinal/assets/proyecto_nav.png?raw=true "Archivos del proyecto") 
 
 
