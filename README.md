@@ -44,4 +44,19 @@ git clone https://github.com/FlorBorja/ProyectoFinal_WEB.git
 
 # Docker :whale:
  
-# Credenciales de Usuarios :woman:
+# Credenciales de Usuario :woman:
+Credenciales para el usuario "administrador".
+```
+usuario: admin 
+password: 123
+```
+Credenciales para el usuario "jefe de carrera".
+```
+usuario: aguila
+password: 123
+```
+Credenciales para el usuario "docente".
+```
+usuario: carpio
+password: 123
+```
