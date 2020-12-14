@@ -42,6 +42,6 @@ git clone https://github.com/FlorBorja/ProyectoFinal_WEB.git
 ### Menú del docente
 ![alt-text](https://media.giphy.com/media/hWUMk7RGhJUSArWXrh/giphy.gif)
 
-# Docker
-
+# Docker :whale:
+ 
 # Credenciales de Usuarios
