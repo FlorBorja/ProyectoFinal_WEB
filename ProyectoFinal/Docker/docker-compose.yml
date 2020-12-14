@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+ db:
+  image: florrdz/proyectof-mysql
+  container_name: crud_mysql_contenedor 
+  restart: always
+  environment:
+   MYSQL_ROOT_PASSWORD: 'root'
+   MYSQL_DATABASE: 'proyecto'
+  ports:
+   - '3306:3306'
+ web:
+  image: florrdz/proyectof-tomcat
+  container_name: crud_tomcat_contenedor
+  restart: always
+  ports:
+   - "8080:8080"

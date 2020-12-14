@@ -1,0 +1,6 @@
+FROM mysql:latest
+
+ENV MYSQL_DATABASE="proyecto"
+ENV MYSQL_ROOT_PASSWORD="root"
+
+COPY ./database/script.sql /docker-entrypoint-initdb.d/script.sql
