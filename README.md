@@ -18,6 +18,9 @@ El sistema debe de contar con roles para acceso a la información, dependiendo d
                             Si el jefe maneja 2 carreras, debe de poder escoger con que carrera trabajar.
   * Rol de profesor: Ver SU reporte de materias.
 
+#Comenzando
+*Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.*
+
 # Demo
 ### Menú del administrador
 ![alt-text](https://media.giphy.com/media/YpgUUHpq7Ny1W3zDKg/giphy.gif)
