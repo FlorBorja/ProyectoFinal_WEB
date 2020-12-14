@@ -21,3 +21,5 @@ El sistema debe de contar con roles para acceso a la información, dependiendo d
 # Demo
 ### Menú del administrador
 ![alt-text](https://media.giphy.com/media/YpgUUHpq7Ny1W3zDKg/giphy.gif)
+### Menú del jefe de carrera
+![alt-text](https://media.giphy.com/media/vBXkUXQbCznWmgaGGc/giphy.gif)
