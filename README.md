@@ -22,6 +22,9 @@ El sistema debe de contar con roles para acceso a la información, dependiendo d
 *Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.*
 
 ## Pre-requisitos :page_facing_up:
+* Para el desarrollo de este proyecto se utilizó Eclipse IDE for Enterprise Java Developers Version: 2020-06 (4.16.0).
+* Se utiliza el servidor Apache Tomcat version 9.0.37.
+* XAMPP para el servidor MySQL.
 
 # Demo :computer:
 ### Menú del administrador
