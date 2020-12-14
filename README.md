@@ -57,7 +57,7 @@ git clone https://github.com/FlorBorja/ProyectoFinal_WEB.git
 docker-compose.yml
 ```
  
-# Credenciales de Usuario :woman:
+# Usuarios :woman:
 Credenciales para el usuario "administrador".
 ```
 usuario: admin 
