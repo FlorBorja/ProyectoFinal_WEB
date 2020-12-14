@@ -23,3 +23,6 @@ El sistema debe de contar con roles para acceso a la información, dependiendo d
 ![alt-text](https://media.giphy.com/media/YpgUUHpq7Ny1W3zDKg/giphy.gif)
 ### Menú del jefe de carrera
 ![alt-text](https://media.giphy.com/media/vBXkUXQbCznWmgaGGc/giphy.gif)
+### Menú del docente
+![alt-text](https://media.giphy.com/media/hWUMk7RGhJUSArWXrh/giphy.gif)
+
