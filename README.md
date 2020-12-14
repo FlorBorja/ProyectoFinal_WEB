@@ -22,12 +22,12 @@ El sistema debe de contar con roles para acceso a la información, dependiendo d
 *Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.*
 
 ## Pre-requisitos :page_facing_up:
-* Para el desarrollo de este proyecto se utilizó Eclipse IDE for Enterprise Java Developers Version: 2020-06 (4.16.0).
-* Se utiliza el servidor Apache Tomcat version 9.0.37.
-* XAMPP para el servidor MySQL.
+* Para el desarrollo de este proyecto se utilizó Eclipse IDE for Enterprise Java Developers Version: 2020-06 (4.16.0). https://www.eclipse.org/downloads/
+* Se utiliza el servidor Apache Tomcat version 9.0.37. https://tomcat.apache.org/download-80.cgi
+* XAMPP para el servidor MySQL. https://www.apachefriends.org/es/download.html
 
 ## Clonar el proyecto :eyes:
-1. Abrir la terminal de preferencia
+1. Abre la terminal de tu preferencia.
 2. Ubicarse en la carpeta donde se desee clonar el proyecto.
 3. Pega el siguiente comando en la terminal:
 ```
@@ -35,8 +35,8 @@ git clone https://github.com/FlorBorja/ProyectoFinal_WEB.git
 ```
 
 ## Ejecutando el proyecto :wrench:
-1. Abrir el IDE de Eclipse.
-2. Verifica que que se tenga instalado el servidor Apache Tomcat
+1. Abre el IDE de Eclipse. 
+2. Verifica que que se tenga instalado el servidor Apache Tomcat. Descarga 
 3. Enciende los servicios de MySQL de XAMPP para poder utilizar la base de datos *proyecto*.
 4. Ejecutar el archivo index.jsp que se encuentra dentro del proyecto dando click derecho y eligiendo el servidor de Tomcat instalado.
 
