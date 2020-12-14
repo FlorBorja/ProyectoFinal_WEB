@@ -26,6 +26,14 @@ El sistema debe de contar con roles para acceso a la información, dependiendo d
 * Se utiliza el servidor Apache Tomcat version 9.0.37.
 * XAMPP para el servidor MySQL.
 
+## Clonar el proyecto :eyes:
+1. Abrir la terminal de preferencia
+2. Ubicarse en la carpeta donde se desee clonar el proyecto.
+3. Pega el siguiente comando en la terminal:
+```
+git clone 
+```
+
 # Demo :computer:
 ### Menú del administrador
 ![alt-text](https://media.giphy.com/media/YpgUUHpq7Ny1W3zDKg/giphy.gif)
