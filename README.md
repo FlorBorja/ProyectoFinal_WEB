@@ -17,3 +17,5 @@ El sistema debe de contar con roles para acceso a la información, dependiendo d
                             materias por maestro, de la carrera a su cargo.
                             Si el jefe maneja 2 carreras, debe de poder escoger con que carrera trabajar.
   * Rol de profesor: Ver SU reporte de materias.
+
+# Demo
