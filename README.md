@@ -34,6 +34,14 @@ El sistema debe de contar con roles para acceso a la información, dependiendo d
 git clone https://github.com/FlorBorja/ProyectoFinal_WEB.git
 ```
 
+## Ejecutando el proyecto :wrench:
+1. Abrir el IDE de Eclipse.
+2. Verifica que que se tenga instalado el servidor Apache Tomcat
+3. Enciende los servicios de MySQL de XAMPP para poder utilizar la base de datos *proyecto*.
+4. Ejecutar el archivo index.jsp que se encuentra dentro del proyecto dando click derecho y eligiendo el servidor de Tomcat instalado.
+
+¡Listo! :fireworks: Ya podrás ver el proyecto ejecutandose en tu computador.
+
 # Demo :computer:
 ### Menú del administrador
 ![alt-text](https://media.giphy.com/media/YpgUUHpq7Ny1W3zDKg/giphy.gif)
@@ -43,6 +51,11 @@ git clone https://github.com/FlorBorja/ProyectoFinal_WEB.git
 ![alt-text](https://media.giphy.com/media/hWUMk7RGhJUSArWXrh/giphy.gif)
 
 # Docker :whale:
+ Este proyecto también puede ser ejecutado con la ayuda de Docker.
+ Para ello solo se debe de ejecutar el achivo
+```
+docker-compose.yml
+```
  
 # Credenciales de Usuario :woman:
 Credenciales para el usuario "administrador".
@@ -60,3 +73,5 @@ Credenciales para el usuario "docente".
 usuario: carpio
 password: 123
 ```
+##
+Hecho por :flower:
