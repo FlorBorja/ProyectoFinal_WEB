@@ -74,7 +74,8 @@ usuario: carpio
 password: 123
 ```
 # Archivos del proyecto
-https://raw.githubusercontent.com/FlorBorja/ProyectoFinal_WEB/main/ProyectoFinal/assets/proyecto_nav.png
+![Alt text](https://raw.githubusercontent.com/FlorBorja/ProyectoFinal_WEB/main/ProyectoFinal/assets/proyecto_nav.png?raw=true "Title") 
+
 
 ##
 Hecho por :hibiscus:
