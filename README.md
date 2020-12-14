@@ -1,4 +1,4 @@
-# ProyectoFinal_WEB :school_satchel:
+# ProyectoFinal_WEB 
 Proyecto Final de la materia "Programación Web Avanzada"
 
 Software desarrollado para gestionar el manejo de materias en el TECNM.
