@@ -31,7 +31,7 @@ El sistema debe de contar con roles para acceso a la información, dependiendo d
 2. Ubicarse en la carpeta donde se desee clonar el proyecto.
 3. Pega el siguiente comando en la terminal:
 ```
-git clone 
+git clone https://github.com/FlorBorja/ProyectoFinal_WEB.git
 ```
 
 # Demo :computer:
