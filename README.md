@@ -19,4 +19,4 @@ El sistema debe de contar con roles para acceso a la información, dependiendo d
   * Rol de profesor: Ver SU reporte de materias.
 
 # Demo
-![alt-text](C:\Users\florl\Downloads)
+![alt-text](https://media.giphy.com/media/YpgUUHpq7Ny1W3zDKg/giphy.gif)
