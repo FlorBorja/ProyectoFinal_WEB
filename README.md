@@ -40,7 +40,7 @@ git clone https://github.com/FlorBorja/ProyectoFinal_WEB.git
 3. Enciende los servicios de MySQL de XAMPP para poder utilizar la base de datos *proyecto*.
 4. Ejecutar el archivo index.jsp que se encuentra dentro del proyecto dando click derecho y eligiendo el servidor de Tomcat instalado.
 
-¡Listo! :fireworks: Ya podrás ver el proyecto ejecutandose en tu computador.
+¡Listo! :thumbsup: Ya podrás ver el proyecto ejecutandose en tu computador.
 
 # Demo :computer:
 ### Menú del administrador
@@ -74,4 +74,4 @@ usuario: carpio
 password: 123
 ```
 ##
-Hecho por :flower:
+Hecho por :hibiscus:
